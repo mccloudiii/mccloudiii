@@ -2,7 +2,7 @@
 - 👀 I’m interested in IP Network Automation, NFV & TelcoCloud
 - 🌱 I’m currently learning Web frameworks(Flask/FastAPI) 
 - 💞️ I’m looking to collaborate on network automation frameworks
-- 📫 How to reach me 
+- 📫 How to reach me, you can ping on discord as 
 
 <!---
 mccloudiii/mccloudiii is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
