@@ -7,7 +7,7 @@
 ### 📺 Latest YouTube Videos
 
 <!-- BEGIN YOUTUBE-CARDS -->
-[![Explaining Idemptotency in Netowrk Automation using Python Scripts](https://youtu.be/PJA181jmVpM)
+[![Explaining Idemptotency in Network Automation using Python](https://img.youtube.com/vi/PJA181jmVpM/0.jpg)](https://youtu.be/PJA181jmVpM)
 
 <!-- END YOUTUBE-CARDS -->
 #
