@@ -7,9 +7,9 @@
 ### 📺 YouTube Videos
 
 <!-- BEGIN YOUTUBE-CARDS -->
-[![Explaining Idemptotency in Network Automation using Python](https://img.youtube.com/vi/PJA181jmVpM/0.jpg)"Explaining Idemptotency in Network Automation using Python"](https://youtu.be/PJA181jmVpM)
-[![Explaining Idemptotency in Network Automation using Python ](https://markdown-videos-api.jorgenkh.no/url?url=https%3A%2F%2Fyoutu.be%2FPJA181jmVpM)"Explaining Idemptotency in Network Automation using Python"](https://youtu.be/PJA181jmVpM)
+[![Explaining Idemptotency in Network Automation using Python](https://img.youtube.com/vi/PJA181jmVpM/0.jpg)](https://youtu.be/PJA181jmVpM)
 
+Explaining Idemptotency in Network Automation using Python
 
 <!-- END YOUTUBE-CARDS -->
 #
