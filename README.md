@@ -4,7 +4,7 @@
 - 📫 How to reach me, you can ping me on Discord as stevemcmanaman2021
 
 
-### 📺 Latest YouTube Videos
+### 📺 YouTube Videos
 
 <!-- BEGIN YOUTUBE-CARDS -->
 [![Explaining Idemptotency in Network Automation using Python](https://img.youtube.com/vi/PJA181jmVpM/0.jpg)](https://youtu.be/PJA181jmVpM)
