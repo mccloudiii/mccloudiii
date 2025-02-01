@@ -7,7 +7,7 @@
 ### 📺 YouTube Videos
 
 <!-- BEGIN YOUTUBE-CARDS -->
-[![Understanding Idempotency in Network Automation with Python](https://img.youtube.com/vi/rb30JPkTYtY/0.jpg)](https://youtu.be/rb30JPkTYtY)
+[![Understanding Idempotency in Network Automation with Python](https://img.youtube.com/vi/PJA181jmVpM/0.jpg)"Idempotency"](https://youtu.be/rb30JPkTYtY)
 
    Understanding Idempotency in Network Automation with Python
 <!-- END YOUTUBE-CARDS -->
